@@ -4,13 +4,18 @@ import Footer2 from "./components/Footer/Footer2";
 import Navbar from "./components/Navbar/Navbar";
 import Footer3 from "./components/Footer/footer3";
 import Footer4 from "./components/Footer/Footer4";
+import Navbar2 from "./components/Navbar/Navbar2";
 function App() {
   return (
     <>
-      <Navbar></Navbar>
+      {/* <Navbar></Navbar> */}
+      <h1>Another Navbar section</h1>
+     
       <h1 className="text-3xl font-bold text-center text-gray-900">
         Reusable-UI
       </h1>
+      <Navbar2></Navbar2>
+      <h1>Footer Section</h1>
       <Footer></Footer>
       <h1>Another footer section</h1>
       <Footer2></Footer2>
