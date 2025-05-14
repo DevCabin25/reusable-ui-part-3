@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Footer3 from "./components/Footer/footer3";
 import Footer4 from "./components/Footer/Footer4";
 import Navbar2 from "./components/Navbar/Navbar2";
+import Card1 from "./components/Card/Card1";
 function App() {
   return (
     <>
@@ -23,6 +24,7 @@ function App() {
       <Footer3></Footer3>
       <h6>Another footer section part</h6>
       <Footer4></Footer4>
+      <Card1></Card1>
 
     </>
   );
