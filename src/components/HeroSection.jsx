@@ -4,7 +4,6 @@ const HeroSection = () => {
   return (
     <section className="bg-gradient-to-br from-blue-500 to-indigo-800 text-white py-20 px-6">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row items-center justify-between gap-12">
-        {/* Text Content */}
         <div className="md:w-1/2">
           <h1 className="text-4xl sm:text-5xl font-bold leading-tight mb-6">
             Build Your Digital Future with{" "}

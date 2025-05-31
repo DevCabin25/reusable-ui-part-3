@@ -4,7 +4,7 @@ const HeroSection2 = () => {
   return (
     <section className="relative bg-white overflow-hidden">
       <div className="max-w-7xl mx-auto px-6 py-20 lg:py-28 lg:px-8 flex flex-col-reverse lg:flex-row items-center gap-16">
-        {/* Left Content */}
+       
         <div className="lg:w-1/2 text-center lg:text-left">
           <h1 className="text-4xl md:text-5xl font-extrabold tracking-tight text-gray-900 leading-tight">
             Elevate Your Code with <br />
