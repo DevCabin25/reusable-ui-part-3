@@ -6,6 +6,8 @@ import Footer3 from "./components/Footer/footer3";
 import Footer4 from "./components/Footer/Footer4";
 import Navbar2 from "./components/Navbar/Navbar2";
 import Card1 from "./components/Card/Card1";
+import HeroSection from "./components/HeroSection";
+import HeroSection2 from "./components/HeroSection2";
 function App() {
   return (
     <>
@@ -16,7 +18,10 @@ function App() {
         Reusable-UI
       </h1>
       <Navbar2></Navbar2>
+     <HeroSection></HeroSection> 
+     <HeroSection2></HeroSection2>
       <h1>Footer Section</h1>
+
       <Footer></Footer>
       <h1>Another footer section</h1>
       <Footer2></Footer2>
